@@ -23,8 +23,8 @@ My proposal focuses on:
 - [#451](https://github.com/brainglobe/cellfinder/issues/451) – Update PyTorch version to maintain compatibility.
 
 ### ✅ Pull Requests
-- [PR #XXX](#) – Add troubleshooting steps to Cellfinder docs (Linked to issue #515).
-- [PR #XXX](#) – Update PyTorch version in dependencies (Linked to issue #451).
+- [PR https://github.com/brainglobe/cellfinder/pull/519](#) – Add troubleshooting steps to Cellfinder docs (Linked to issue #515).
+- [https://github.com/brainglobe/brainglobe.github.io/issues/322#issuecomment-2782209693](#) – Update PyTorch version in dependencies (Linked to issue #451).
 > *(Replace XXX with the actual PR numbers and URLs)*
 
 ---
